@@ -30,6 +30,6 @@ This repository contains a Bash script to manage DNS resolver settings for syste
 To download and run the script, use the following commands:
 
 ```bash
-curl -O https://raw.githubusercontent.com/yourusername/yourrepo/main/dns-changer.sh
+curl -O https://raw.githubusercontent.com/hkhoshraftar2/antisanctions-dns-changer/main/dns-changer.sh
 chmod +x dns-changer.sh
 sudo ./dns-changer.sh
